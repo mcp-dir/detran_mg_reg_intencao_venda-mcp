@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/detran_mg_reg_intencao_venda-mcp",
+  "title": "DETRAN MG: Registrar Intenção de Venda de Veículo",
+  "description": "DETRAN MG: Registrar Intenção de Venda de Vehicle, official-source lookup. Platform-hosted, pay per ",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/detran_mg_reg_intencao_venda-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_detran_mg_reg_intencao_venda"
+    }
+  ]
+}

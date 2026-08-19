@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_detran_mg_reg_intencao_venda.",
+  "servers": {
+    "detran_mg_reg_intencao_venda": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_detran_mg_reg_intencao_venda"
+    }
+  }
+}
